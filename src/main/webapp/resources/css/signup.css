@@ -1,0 +1,42 @@
+.container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.explanation {
+	font-size: 13px;
+}
+.class-id {
+	display: flex;
+	flex-direction: column;m
+	justify-content: center;
+	align-items: center;
+	gap: 10px;
+}
+.class-password {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	gap: 10px;
+}
+.class-name {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	gap: 10px;
+}
+#email1 {
+	width: 100px;
+}
+.sending-letter {
+	font-size: 13px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	gap: 20px;
+}
